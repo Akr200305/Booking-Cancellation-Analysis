@@ -1,0 +1,5 @@
+- Performed data pre-processing on the hotel booking cancellation dataset(.csv), addressing missing values using Python libraries. It consists the details like reservation status date, company, agent, online and offline bookings, and other important information.
+- With the help of python libraries we conducted Exploratory Data Analysis (EDA) to address client queries and glean insights from the dataset.
+- Addition to that, we also created some hypothesis of our own and got the results and insights needed to answer further questions.
+- Utilized visualization libraries in Python to create informative visualizations for the analysis.
+- We executed the project within the Jupyter Notebook environment for efficient workflow and documentation.
